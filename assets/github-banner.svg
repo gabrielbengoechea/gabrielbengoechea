@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Bengoechea — Engineering, Logistics and Emerging Technology</title>
+  <desc id="desc">Dark technical banner with cyan and lime geometric lines, network nodes and engineering-inspired grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="1" stop-color="#1C2B36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00B8D9"/>
+      <stop offset="1" stop-color="#9FE870"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#78909C" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <path d="M710 0L900 0L1110 210L1110 340L1010 340L710 40Z" fill="#00B8D9" opacity=".07"/>
+  <path d="M820 0L880 0L1200 320L1200 340L1160 340Z" fill="#9FE870" opacity=".08"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.2" opacity=".8">
+    <path d="M760 72H900L980 152H1120"/>
+    <path d="M790 260H910L1010 160H1160"/>
+    <path d="M930 40V110L1030 210V290"/>
+    <path d="M1080 50V105L1150 175"/>
+  </g>
+  <g fill="#00B8D9">
+    <circle cx="760" cy="72" r="5"/><circle cx="900" cy="72" r="5"/><circle cx="980" cy="152" r="5"/>
+    <circle cx="1120" cy="152" r="5"/><circle cx="790" cy="260" r="5"/><circle cx="910" cy="260" r="5"/>
+  </g>
+  <g fill="#9FE870">
+    <circle cx="930" cy="40" r="5"/><circle cx="1030" cy="210" r="5"/><circle cx="1150" cy="175" r="5"/>
+  </g>
+  <rect x="72" y="66" width="7" height="180" rx="3.5" fill="url(#accent)"/>
+  <text x="112" y="125" fill="#F3F7FA" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="1">GABRIEL BENGOECHEA</text>
+  <text x="114" y="174" fill="#00B8D9" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="2">ENGINEERING IDEAS INTO REALITY</text>
+  <text x="114" y="218" fill="#C5D1D8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1">LOGISTICS  /  XR &amp; SPATIAL COMPUTING  /  SIMULATION  /  INNOVATION</text>
+  <text x="114" y="278" fill="#9FE870" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">UTEC URUGUAY · RIVERA</text>
+</svg>
