@@ -31,22 +31,22 @@ My work connects practical logistics problems with experimentation: route optimi
 ### [Artigas-1 · XR Logística Lab](https://github.com/gabrielbengoechea/xr-logistica-lab)
 A mixed-reality lab for teaching logistics and engineering on Meta Quest. Students assemble real equipment (forklift, pallet, selective rack, photoelectric sensor, three-phase motor, CubeSat 1U) in exploded view while the headset streams session metrics to a teacher dashboard. Includes **Artigas-1**, a zero-gravity logistics simulator aboard a fictional Uruguayan space station.
 
-`Unity 6` `C#` `OpenXR` `FastAPI` `React` `three.js` `Blender`
+`Unity 6` `C#` `OpenXR` `FastAPI` `React` `three.js` `Blender` · [Web walkthrough](https://gabrielbengoechea.github.io/xr-logistica-lab/artigas1/)
 
 ### [Quest XR Pilots](https://github.com/gabrielbengoechea/quest-xr-pilotos)
 A collection of browser-based WebXR pilots for Meta Quest: a mixed-reality port atlas with 30 ports and strategic chokepoints, a forklift driving trainer set in a Uruguayan warehouse, a 6-axis industrial robot, an exploded turbofan engine and tabletop AR placement.
 
-`WebXR` `three.js` `Blender`
+`WebXR` `three.js` `Blender` · [Open the portal](https://gabrielbengoechea.github.io/quest-xr-pilotos/)
 
 ### [Dijkstra Logistics Master](https://github.com/gabrielbengoechea/rutas-dijkstra)
 An interactive web tool for outbound transport: step-by-step visualization of Dijkstra's shortest-path algorithm on a distribution network, with fuel/cost savings estimates, practical cases and a quiz.
 
-`HTML` `JavaScript` `Tailwind CSS`
+`HTML` `JavaScript` `Tailwind CSS` · [Live demo](https://gabrielbengoechea.github.io/rutas-dijkstra/)
 
 ### [Incoterms 2020 Master](https://github.com/gabrielbengoechea/incoterms-2020-learning)
 An interactive learning platform for international trade: cost and risk transfer visualizer for the 11 ICC Incoterms® 2020 rules, a selection assistant, a comparison matrix and practice cases.
 
-`HTML` `JavaScript` `Tailwind CSS`
+`HTML` `JavaScript` `Tailwind CSS` · [Live demo](https://gabrielbengoechea.github.io/incoterms-2020-learning/)
 
 ### VR walkthroughs for logistics simulators
 I added Meta Quest VR walkthroughs (collision-aware walking, teleport, illustrated tutorial) to three classroom simulators originally created by [@sr-sebastian](https://github.com/sr-sebastian):
