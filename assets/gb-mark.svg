@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="GB monogram">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00B8D9"/><stop offset="1" stop-color="#9FE870"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="#101820"/>
+  <path d="M90 126H422M90 386H422" stroke="#536775" stroke-width="4" opacity=".55"/>
+  <path d="M112 145H235C295 145 329 176 329 224C329 257 310 278 279 289C322 297 348 324 348 365C348 422 306 454 237 454H112V145ZM184 205V266H232C258 266 272 255 272 235C272 215 258 205 232 205H184ZM184 323V394H238C266 394 283 382 283 359C283 335 266 323 238 323H184Z" fill="url(#g)" transform="translate(0 -44)"/>
+  <path d="M374 160L418 204L374 248" fill="none" stroke="#F3F7FA" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
